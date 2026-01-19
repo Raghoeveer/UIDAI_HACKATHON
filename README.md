@@ -1,6 +1,6 @@
 
 # UIDAI Data Hackathon 2026  
-## Identifying Invisible Infants to Bridge the Vaccination Gap
+## Swasthya Drishti: Aadhaar-Guided Vaccination Planning
 
 ---
 
