@@ -1,6 +1,6 @@
 
 # UIDAI Data Hackathon 2026  
-## Swasthya Drishti: Aadhaar-Guided Vaccination Planning
+## Teeka Niyojan: Aadhaar-Guided Vaccination Planning
 
 ---
 
