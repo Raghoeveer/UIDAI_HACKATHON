@@ -45,6 +45,15 @@ The approach combines:
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
+## 📁 Final Dataset
+
+- final_processed_data.csv contains the final aggregated dataset at the district level, with computed values for:
+- Clinical Overhead Index (COI)
+- Vaccination Gap
+- Supporting intermediate indicators used in prioritization
+
+This file is intended to serve as the primary input for visualization, heatmaps, and policy-level analysis.
+
 ---
 
 **Outcome:** A concise, explainable framework to support proactive vaccination planning using Aadhaar-based insights, complemented by external reference data.
